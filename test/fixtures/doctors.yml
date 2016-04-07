@@ -3,7 +3,9 @@
 one:
   name: MyString
   specialization: MyString
+  age: MyString
 
 two:
   name: MyString
   specialization: MyString
+  age: MyString
